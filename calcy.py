@@ -105,7 +105,6 @@ button_sub.grid(row=6,column=0)
 button_mul.grid(row=6,column=1)
 button_div.grid(row=6,column=2)
 
-# myButton=Button(root,text="click me!",padx=50,pady=50,command=myClick,fg="blue",bg="#000000") #function calling  #myClick() is not proper way here
-# myButton.grid(row=5)
+
 
 root.mainloop()
